@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @secureram
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning cyber security
-- 📫 How to reach me email- its.ponnamramcharan@gmail.com
+- 📫 How to reach me email- ramcharanfordeakin@gmail.com
 
 <!---
 secureram/secureram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
